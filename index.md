@@ -7,7 +7,7 @@
  &nbsp;
   
   
-###### <p align="right"> 中国۰上海 </p>
-###### <p align="right"> 2021.07.28 </p> 
-###### <p align="right"> blair@163.com </p> 
+###### 中国۰上海 
+###### 2021.07.28  
+###### blair@163.com 
 ----
